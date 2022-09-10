@@ -5,9 +5,8 @@
 
 ##
 
-<div>
+<div  align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allecardos&show_icons=true&theme=buefy"/>
-  
 </div>
 
 ##
