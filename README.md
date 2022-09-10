@@ -1,7 +1,7 @@
-## 🙋‍♂️ Olá! Me chamo Allexandre Cardoso...
+## 👾 Allexandre Cardoso...
 
-### Estudante de Desenvolvimento e Tecnologia!
-> Estudando: Desenvolvimento WEB (JavaScript) 📚
+### Development and Technology Student!
+> Studying: Web Development (JavaScript) 📚
 
 ##
 
