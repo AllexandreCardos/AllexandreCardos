@@ -5,9 +5,11 @@
 
 ##
 
-<div  align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allecardos&show_icons=true&theme=buefy"/>
-   <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecardos&layout=compact&theme=buefy"/>
+<div  align="center" target="_blank">
+  <a href="https://github.com/AlleCardos">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allecardos&show_icons=true&theme=buefy"/>
+    <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecardos&layout=compact&theme=buefy"/>
+  </a>
 </div>
 
 ##
