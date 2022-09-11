@@ -7,12 +7,12 @@
 
 <div  align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allecardos&show_icons=true&theme=buefy"/>
+   <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecardos&layout=compact&theme=buefy"/>
 </div>
 
 ##
 
 <!-- <div widht="100%">
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecardos&layout=compact&theme=buefy"/>
   <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
