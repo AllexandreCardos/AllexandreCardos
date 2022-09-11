@@ -5,9 +5,11 @@
 
 ##
 
-<div  align="center" target="_blank">
-  <a href="https://github.com/AlleCardos">
+<div  align="center">
+  <a href="https://github.com/AlleCardos" target="_blank">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allecardos&show_icons=true&theme=buefy"/>
+  </a>
+  <a href="https://github.com/AlleCardos?tab=repositories" target="_blank">
     <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecardos&layout=compact&theme=buefy"/>
   </a>
 </div>
