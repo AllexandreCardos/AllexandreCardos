@@ -3,7 +3,7 @@
 ### Fullstack Developer
 
 <div>
-Currently, I work as a FullStack Developer and Analyst for almost a year, using technologies and resources such as PHP, JavaScript, jQuery, SQL, and the MVC Architecture. However, my main focus has been directed towards backend development, where I have been exploring technologies like Laravel and Node.js. I have gained experience in building REST APIs, using tools like Postman and Insomnia for testing.
+Currently, I work as a FullStack Developer and Analyst for almost a year, using technologies and resources such as PHP, JavaScript, jQuery, SQL, and the MVC Architecture. However, my main focus has been directed towards backend development, where I have been exploring technologies like Laravel and Node.js. I have gained experience in building APIs, using tools like Postman and Insomnia for testing.
 </div>
 
 ##
