@@ -1,3 +1,5 @@
+[![capa](https://cdn.discordapp.com/attachments/1065501439448850524/1169342330650759249/Frame_1.png?ex=65550de8&is=654298e8&hm=e3aa4e1bd2102097e7db94ad0dc9fd76e43010ef3a47c67b2c3c25b46ba109e8&)]()
+
 ## 👾 Hello, I'm Allexandre Cardoso!
 
 ### Fullstack Developer
