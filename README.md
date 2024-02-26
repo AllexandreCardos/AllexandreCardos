@@ -1,11 +1,9 @@
 [![capa](https://cdn.discordapp.com/attachments/1172668039829913671/1172669031988351089/banner-main.png?ex=65eb95a4&is=65d920a4&hm=3707f04f808c6e6efe149d770f1dd526432c41c44d872a3acff001e7283db798&)](https://github.com/allexandrecardos?tab=repositories)
 
-## 👾 Hello, I'm Allexandre Cardoso!
-
-### Fullstack Developer
+## 👾 Allexandre Cardoso | Fullstack
 
 <div>
-Currently, I work as a FullStack Developer and Analyst for almost a year, using technologies and resources such as PHP, JavaScript, jQuery, SQL, and the MVC Architecture. However, my main focus has been directed towards backend development, where I have been exploring technologies like Laravel and Node.js. I have gained experience in building APIs, using tools like Postman and Insomnia for testing.
+Atualmente, trabalho como Desenvolvedor Full-Stack e Analista há quase um ano, utilizando tecnologias e recursos como PHP, JavaScript, jQuery, SQL e a Arquitetura MVC. No entanto, meu foco principal tem sido direcionado para o desenvolvimento de Back-End, onde tenho explorado tecnologias como Laravel e Node.js. Ganhei experiência na construção de APIs, utilizando ferramentas como Postman e Insomnia para testes.
 </div>
 
 ##
