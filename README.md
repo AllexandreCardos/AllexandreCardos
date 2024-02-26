@@ -1,4 +1,4 @@
-[![capa](https://cdn.discordapp.com/attachments/1172668039829913671/1172669031988351089/banner-main.png?ex=65612824&is=654eb324&hm=c2158b1efc02fbfd7d93ca8ed9cea1c1a30253361df24b9a12cf2274a45df131&)](https://github.com/allexandrecardos?tab=repositories)
+[![capa](https://cdn.discordapp.com/attachments/1172668039829913671/1172669031988351089/banner-main.png?ex=65eb95a4&is=65d920a4&hm=3707f04f808c6e6efe149d770f1dd526432c41c44d872a3acff001e7283db798&)](https://github.com/allexandrecardos?tab=repositories)
 
 ## 👾 Hello, I'm Allexandre Cardoso!
 
