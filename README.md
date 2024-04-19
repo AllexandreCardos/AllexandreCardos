@@ -1,4 +1,4 @@
-[![capa](https://cdn.discordapp.com/attachments/1172668039829913671/1172669031988351089/banner-main.png?ex=65eb95a4&is=65d920a4&hm=3707f04f808c6e6efe149d770f1dd526432c41c44d872a3acff001e7283db798&)](https://github.com/allexandrecardos?tab=repositories)
+![banner-main](https://github.com/allexandrecardos/allexandrecardos/assets/106033075/0b0a7099-89cc-4af7-866f-ef340d9ba1fe)
 
 ## 👾 Allexandre Cardoso | Fullstack
 
